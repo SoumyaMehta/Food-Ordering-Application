@@ -1,3 +1,18 @@
+#QEats :- food ordering app
+
+## Overview
+QEats is a popular food ordering app that allows users to browse and order their favourite dishes from nearby restaurants.
+During the course of this project,
+Built different parts of the QEats backend which is a Spring Boot application.
+Several REST API endpoints are implemented to query restaurant information and order food.
+It improved the app performance under large load scenarios as well as included an advanced search feature in the app.
+
+![image](https://github.com/SoumyaMehta/QEats/assets/69056406/8ca557bf-f8d6-4051-8694-1ac973fe0c7b)
+
+![image](https://github.com/SoumyaMehta/QEats/assets/69056406/5061db46-abba-48fb-a98c-8ab8b2ae7080)
+
+![image](https://github.com/SoumyaMehta/QEats/assets/69056406/4690177a-7eb7-4d2f-80f6-3d1a2cdd51c0)
+
 # Pre-requisites
 
 * Java 1.8/1.11/1.15
