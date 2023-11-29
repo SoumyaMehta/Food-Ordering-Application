@@ -1,4 +1,4 @@
-#QEats :- food ordering app
+# QEats :- food ordering app
 
 ## Overview
 QEats is a popular food ordering app that allows users to browse and order their favourite dishes from nearby restaurants.
