@@ -27,9 +27,9 @@ Use the following scripts for their respective commands:
 * `gradle clean build -x test --no-daemon` to create the jar file `geektrust.jar` in the `build/libs` folder.
 * `java -jar build/libs/geektrust.jar sample_input/input1.txt` to execute the jar file passing in the sample input file as the command line argument.
 
-Use the build.gradle file provided along with this project. 
+Use the `build.gradle` file provided along with this project. 
 
-Change the main class entry under the `jar` task in the build.gradle if your main class has changed:
+Change the main class entry under the `jar` task in the `build.gradle` if your main class has changed:
 ```
  manifest {
         attributes 'Main-Class' : 'com.geektrust.backend.App' //Change this to the main class of your program which will be executed
