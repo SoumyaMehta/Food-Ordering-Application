@@ -1,11 +1,12 @@
-# QEats :- food ordering app
+# Food Ordering Application
 
 ## Overview
-QEats is a popular food ordering app that allows users to browse and order their favourite dishes from nearby restaurants.
-During the course of this project,
-Built different parts of the QEats backend which is a Spring Boot application.
-Several REST API endpoints are implemented to query restaurant information and order food.
-It improved the app performance under large load scenarios as well as included an advanced search feature in the app.
+This app allows users to browse and order their favourite dishes from nearby restaurants.
+
+Development Involved:
+* Using several REST API endpoints, such as Google Maps API, for querying information with a Spring-based backend
+* Writing unit tests and using error logs, IDE breakpoints, and assert statements for a structured debugging approach
+* Optimizing app performance for large load scenarios as well as including an advanced search feature within the app
 
 ![image](https://github.com/SoumyaMehta/QEats/assets/69056406/8ca557bf-f8d6-4051-8694-1ac973fe0c7b)
 
@@ -20,11 +21,9 @@ It improved the app performance under large load scenarios as well as included a
 
 # How to run the code
 
-We have provided scripts to execute the code.
+Use `run.sh` if you are on Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows.
 
-Use `run.sh` if you are Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows.
-
-Internally both the scripts run the following commands
+Internally, both the scripts run the following commands:
 
 * `gradle clean build -x test --no-daemon` - This will create a jar file `geektrust.jar` in the `build/libs` folder.
 * `java -jar build/libs/geektrust.jar sample_input/input1.txt` - This will execute the jar file passing in the sample input file as the command line argument
