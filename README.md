@@ -1,4 +1,4 @@
-# Food Ordering Application
+# Food Ordering App
 
 ## Overview
 This app allows users to browse and order their favourite dishes from nearby restaurants.
