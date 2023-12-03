@@ -8,10 +8,12 @@ Development Involved:
 * Writing unit tests and using error logs, IDE breakpoints, and assert statements for a structured debugging approach.
 * Optimizing app performance for large load scenarios as well as including an advanced search feature within the app.
 
+##### Project Architecture:
 ![image](https://github.com/SoumyaMehta/QEats/assets/69056406/8ca557bf-f8d6-4051-8694-1ac973fe0c7b)
 
 ![image](https://github.com/SoumyaMehta/QEats/assets/69056406/5061db46-abba-48fb-a98c-8ab8b2ae7080)
 
+##### Application Interface:
 ![image](https://github.com/SoumyaMehta/QEats/assets/69056406/4690177a-7eb7-4d2f-80f6-3d1a2cdd51c0)
 
 # Pre-requisites
