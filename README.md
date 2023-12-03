@@ -9,8 +9,6 @@ Development Involved:
 * Optimizing app performance for large load scenarios as well as including an advanced search feature within the app.
 
 ##### Project Architecture:
-![image](https://github.com/SoumyaMehta/QEats/assets/69056406/8ca557bf-f8d6-4051-8694-1ac973fe0c7b)
-
 ![image](https://github.com/SoumyaMehta/QEats/assets/69056406/5061db46-abba-48fb-a98c-8ab8b2ae7080)
 
 ##### Application Interface:
