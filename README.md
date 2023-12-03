@@ -19,7 +19,7 @@ Development Involved:
 * Java 1.8/1.11/1.15
 * Gradle 6
 
-# How to run the code
+# Running the code
 
 Use `run.sh` if you are on Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows
 
@@ -36,7 +36,7 @@ Change the main class entry under the `jar` task in the build.gradle if your mai
     }
 ```
 
-# How to execute the unit tests
+# Executing the units tests 
 
  `gradle clean test --no-daemon` will execute the unit tests.
 
