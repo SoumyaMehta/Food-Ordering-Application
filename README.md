@@ -42,4 +42,4 @@ Change the main class entry under the `jar` task in the build.gradle if your mai
 
 # Help
 
-You can read the build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java) or send me an [email](isoumya.dev@gmail.com).
+You can read the build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java) or reach me out at `isoumya.dev@gmail.com`
